@@ -1,6 +1,11 @@
 # 🧮 Data Structure - Circular Queue with C
 
-> Data Structure เรื่อง Circular Queue ด้วยภาษา C
+> Data Structure เรื่อง Circular Queue แบบ Array ด้วยภาษา C
+
+## 🛠️ Features
+- **Enqueue**: เพิ่มข้อมูลที่ด้านท้ายของคิว
+- **Dequeue**: ลบข้อมูลที่ด้านหน้าของคิว
+- **Display**: แสดงข้อมูลทั้งหมดในคิว
 
 ## 📜 License
 
@@ -10,7 +15,8 @@ This project is open-source under the MIT License. Let me know if you need any m
 
 ```bash
 data-structure-circular-queue/
-└── main.c  # Main file
+├── README.md      # Documentation file explaining how to use the project
+└── main.c         # Main C file
 ```
 
 ## ⚙️ Installation 
