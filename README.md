@@ -17,6 +17,7 @@ This project is open-source under the MIT License. Let me know if you need any m
 
 ```bash
 data-structure-circular-queue/
+├── LICENSE            # File containing the license (MIT License)
 ├── README.md      # Documentation file explaining how to use the project
 └── main.c         # Main C file
 ```
